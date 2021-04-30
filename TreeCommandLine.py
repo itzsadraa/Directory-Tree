@@ -1,4 +1,4 @@
-# Directiry Tree
+# Directory Tree
 # RetrO_13th
 # github.com/RetrO-13th
 
