@@ -1,2 +1,46 @@
-# Directory-Tree
+# Directory Tree
 Coding a directory tree using os, sys, pathlib, argsparser modules in Python.
+
+Get help from realpython.com
+## User Guide
+
+Use `python tree.py -h  ` command to see help massage :
+``` shell
+usage: Directory Tree [-h] [-v] [-d] [-e [EXTENTION]] [DIRECTORY]
+
+RetrO_13th Directory Tree
+
+positional arguments:
+  DIRECTORY             Generate a full directory starting at [DIRECTORY]
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -v, --version         show programs version number and exit
+  -d, --dir-only        Generate a only directory tree
+  -e [EXTENTION], --extention [EXTENTION]
+                        Find files with a specific extention in a directory
+
+Thanks for using RetrO_13th Directory Tree
+```
+
+example of using Directory Tree:
+```console
+cat@dog:~$ python tree.py "../Game"
+
+../Game/
+│
+├── Game files/
+│   ├── __init__.py
+│   └── MyGame.py
+│
+├── tests/
+│   └── test_game.py
+│
+├── requirements.txt
+├── setup.py
+├── README.md
+└── LICENSE
+```
+
+## Library 
+You can use `TreeClasses.py` library to make your own file with `DirectoryTree` class and self methodes.
