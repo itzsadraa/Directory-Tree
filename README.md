@@ -5,7 +5,7 @@ Get help from realpython.com
 ## User Guide
 
 Use `python tree.py -h  ` command to see help massage :
-``` shell
+```console
 usage: Directory Tree [-h] [-v] [-d] [-e [EXTENTION]] [DIRECTORY]
 
 RetrO_13th Directory Tree
