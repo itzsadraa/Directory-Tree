@@ -1,7 +1,7 @@
 # Directory Tree
 Coding a directory tree using os, sys, pathlib, argsparser modules in Python.
 
-Got help from [realpython.com](www.realpython.com)
+Got help from [realpython.com](https://www.realpython.com)
 ## User Guide
 Use `python tree.py -h  ` command to see help massage :
 ```console
