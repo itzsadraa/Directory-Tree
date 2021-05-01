@@ -1,9 +1,8 @@
 # Directory Tree
 Coding a directory tree using os, sys, pathlib, argsparser modules in Python.
 
-Get help from realpython.com
+Got help from [realpython.com](www.realpython.com)
 ## User Guide
-
 Use `python tree.py -h  ` command to see help massage :
 ```console
 usage: Directory Tree [-h] [-v] [-d] [-e [EXTENTION]] [DIRECTORY]
@@ -25,7 +24,7 @@ Thanks for using RetrO_13th Directory Tree
 
 example of using Directory Tree:
 ```console
-cat@dog:~$ python tree.py "../Game"
+> python tree.py "../Game"
 
 ../Game/
 │
