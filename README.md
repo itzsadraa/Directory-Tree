@@ -7,7 +7,7 @@ Use `python tree.py -h  ` command to see help massage :
 ```console
 usage: Directory Tree [-h] [-v] [-d] [-e [EXTENTION]] [DIRECTORY]
 
-RetrO_13th Directory Tree
+itzsadraa Directory Tree
 
 positional arguments:
   DIRECTORY             Generate a full directory starting at [DIRECTORY]
