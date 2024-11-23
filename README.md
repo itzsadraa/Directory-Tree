@@ -19,7 +19,7 @@ optional arguments:
   -e [EXTENTION], --extention [EXTENTION]
                         Find files with a specific extention in a directory
 
-Thanks for using RetrO_13th Directory Tree
+Thanks for using itzsadraa Directory Tree
 ```
 
 example of using Directory Tree:
