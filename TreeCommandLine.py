@@ -10,7 +10,7 @@ from TreeClasses import DirectoryTree
 import argparse
 
 def parse_cli():
-    parser = argparse.ArgumentParser(prog="Directory Tree", description="RetrO_13th Directory Tree", epilog="Thanks for using RetrO_13th Directory Tree")
+    parser = argparse.ArgumentParser(prog="Directory Tree", description="itzsadraa Directory Tree", epilog="Thanks for using itzsadraa Directory Tree")
     
     parser.version = "Directory Tree v0.1.5"
     parser.add_argument("-v", "--version", action="version")
